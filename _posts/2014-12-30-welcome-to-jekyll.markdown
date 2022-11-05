@@ -77,4 +77,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [frontmatter]: http://jekyllrb.com/docs/frontmatter/
-[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook
+[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook j
