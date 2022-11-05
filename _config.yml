@@ -1,6 +1,6 @@
 # Site settings
 title: Isack Simon Tahhani
-url: "http://newtonisack.github.io/"    # the protocol and hostname of your site, eg. `http://newtonisack.github.io`
+url: "http://newtonisack.github.io"    # the protocol and hostname of your site, eg. `http://newtonisack.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
