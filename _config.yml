@@ -4,8 +4,7 @@ url: "http://newtonisack.github.io"    # the protocol and hostname of your site,
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-This is my website
-
+ This is my website
 
 # Your information
 email: isack.tahhani@aims.ac.rw
